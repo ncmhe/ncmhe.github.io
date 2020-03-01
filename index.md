@@ -33,7 +33,11 @@ Accepted abstracts will be publicized on this workshop website. The submission s
 
 # Program Schedule
 
+The inaugural event will be scheduled as a half-day workshop, with 1~2 invited talks and spotlight presentations followed by a poster session. The details will be announced closer to the workshop date.
+
 # Program Committee
+
+TBA
 
 # Organizing Committee
 
