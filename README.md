@@ -2,4 +2,4 @@
 
 GitHub README page.
 
-Please visit [ncmhe.github.io].
+Please visit [ncmhe.github.io](ncmhe.github.io).
