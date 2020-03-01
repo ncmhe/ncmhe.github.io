@@ -42,7 +42,7 @@ TBA
 # Organizing Committee
 
 - [Vladimir Pavlovic](http://seqamlab.com) (Rutgers University, Samsung AI Center)
-- [Mubbasir Kapadia](http://ivl.cs.rutgers.edu) (Rutgers University)
+- [Mubbasir Kapadia](https://ivi.cs.rutgers.edu) (Rutgers University)
 - [Sejong Yoon](http://sejongyoon.net) (The College of New Jersey) 
 
 Sejong is the primary contact for the organizing committee. Please send your questions to [yoons@tcnj.edu](yoons@tcnj.edu). 
