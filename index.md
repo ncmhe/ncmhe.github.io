@@ -25,9 +25,18 @@ Accepted abstracts will be publicized on this workshop website. The submission s
 
 ## IMPORTANT DATES
 
-Submission window open: March 15, 2020
-Submission deadline: April 24, 2020
-Acceptance notification: May 24, 2020
-Camera ready deadline: May 31, 2020
-Workshop date: TBA (one day of July 11-13, 2020)
+- Submission window open: **March 15, 2020**
+- Submission deadline: **April 24, 2020**
+- Acceptance notification: **May 24, 2020**
+- Camera ready deadline: May 31, 2020
+- Workshop date: TBA (one day of July 11-13, 2020)
 
+# Program Schedule
+
+# Program Committee
+
+# Organizing Committee
+
+- [Vladimir Pavlovic](seqamlab.com) (Rutgers University, Samsung AI Center)
+- [Mubbasir Kapadia](ivl.cs.rutgers.edu) (Rutgers University)
+- [Sejong Yoon](sejongyoon.net) (The College of New Jersey) --> The primary contact for the organizing committee. Please send your questions to [yoons@tcnj.edu](yoons@tcnj.edu). 
