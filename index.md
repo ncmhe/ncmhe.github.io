@@ -29,7 +29,7 @@ Accepted abstracts will be publicized on this workshop website. The submission s
 - Submission deadline: **April 24, 2020**
 - Acceptance notification: **May 24, 2020**
 - Camera ready deadline: May 31, 2020
-- Workshop date: TBA (one day of July 11-13, 2020)
+- Workshop date: TBD (one day of July 11-13, 2020)
 
 # Program Schedule
 
