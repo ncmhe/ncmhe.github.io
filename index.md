@@ -25,7 +25,7 @@ Accepted abstracts will be publicized on this workshop website. The submission s
 
 ## IMPORTANT DATES
 
-- Submission window open: **March 15, 2020**
+- Submission window open: **March 24, 2020**
 - Submission deadline: **April 24, 2020**
 - Acceptance notification: **May 24, 2020**
 - Camera ready deadline: May 31, 2020
