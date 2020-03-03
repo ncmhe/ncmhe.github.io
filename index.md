@@ -21,7 +21,6 @@ We are looking for submissions of position papers and work-in-progress extended 
 # How to Submit
 
 Papers must be no longer than 2 pages in IJCAI-PRICAI format. The official template can be downloaded from the link [here](https://www.ijcai.org/authors_kit).
-Accepted abstracts will be publicized on this workshop website. The submission system will be available soon.
 
 ## IMPORTANT DATES
 
