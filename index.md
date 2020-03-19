@@ -24,7 +24,6 @@ Papers must be no longer than 2 pages in IJCAI-PRICAI format. The official templ
 
 ## IMPORTANT DATES
 
-- Submission window open: **March 24, 2020**
 - Submission deadline: **April 24, 2020**
 - Acceptance notification: **May 24, 2020**
 - Camera ready deadline: May 31, 2020
