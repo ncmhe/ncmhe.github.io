@@ -31,7 +31,7 @@ Papers must be written in English, and no longer than 2 pages in IJCAI-PRICAI fo
 
 # Program Schedule
 
-The inaugural event will be scheduled as a half-day workshop, with 1~2 invited talks and spotlight presentations followed by a poster session. The details will be announced closer to the workshop date on the website: https://ncmhe.github.io/
+The inaugural event will be scheduled as a half-day workshop, with 1~2 invited talks and spotlight presentations followed by a poster session. The details will be announced closer to the workshop date on the website: [https://ncmhe.github.io/](https://ncmhe.github.io/)
 
 # Organizing Committee
 
