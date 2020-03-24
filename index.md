@@ -20,7 +20,7 @@ We are looking for submissions of position papers and work-in-progress extended 
 
 # How to Submit
 
-Papers must be written in English, and no longer than 2 pages in IJCAI-PRICAI format. The official template can be downloaded from the link [here](https://www.ijcai.org/authors_kit). Ths submission site will be available soon.
+Papers must be written in English, and no longer than 2 pages in IJCAI-PRICAI format. The official template can be downloaded from the link [here](https://www.ijcai.org/authors_kit). Ths submission CMT site will be available soon.
 
 ## IMPORTANT DATES
 
