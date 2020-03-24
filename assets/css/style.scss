@@ -4,4 +4,6 @@
 @import "{{ site.theme }}";
 #header-background{
 	background:url('http://ncmhe.github.io/header.png');
+	background-size: cover;
+	background-position: center;
 }
