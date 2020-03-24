@@ -33,10 +33,6 @@ Papers must be no longer than 2 pages in IJCAI-PRICAI format. The official templ
 
 The inaugural event will be scheduled as a half-day workshop, with 1~2 invited talks and spotlight presentations followed by a poster session. The details will be announced closer to the workshop date.
 
-# Program Committee
-
-TBA
-
 # Organizing Committee
 
 - [Vladimir Pavlovic](http://seqamlab.com) (Rutgers University, Samsung AI Center)
