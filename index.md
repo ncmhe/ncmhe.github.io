@@ -24,7 +24,7 @@ Papers must be written in English, and no longer than 2 pages in IJCAI-PRICAI fo
 
 The official template can be downloaded from [here](https://www.ijcai.org/authors_kit).
 
-Ths link to the submission CMT site is [here](https://cmt3.research.microsoft.com/NCMHE2020) and now accepting your papers!
+The link to the submission CMT site is [here](https://cmt3.research.microsoft.com/NCMHE2020) and now accepting your papers!
 
 ## IMPORTANT DATES
 
