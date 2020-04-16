@@ -20,7 +20,9 @@ We are looking for submissions of position papers and work-in-progress extended 
 
 # How to Submit
 
-Papers must be written in English, and no longer than 2 pages in IJCAI-PRICAI format. The reviewing process will follow the double blind policy. Position papers, forwarding looking work (work yet to be done), and summaries of recent published work are all welcome.
+Papers must be written in English, and no longer than 2 pages in IJCAI-PRICAI format. Only the list of references may go beyond this page limit. Optionally, you may submit supplementary materials (e.g. videos) up to 20 MB.
+
+The reviewing process will follow the double blind policy. Position papers, forwarding looking work (work yet to be done), and summaries of recently published work are all welcome.
 
 The official template can be downloaded from [here](https://www.ijcai.org/authors_kit).
 
