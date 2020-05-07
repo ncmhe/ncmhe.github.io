@@ -30,9 +30,9 @@ The link to the submission CMT site is [here](https://cmt3.research.microsoft.co
 
 ## IMPORTANT DATES
 
-- Submission deadline: ~~April 24, 2020~~ **May 8, 2020** (Extended)
-- Acceptance notification: May 24, 2020
-- Camera ready deadline: May 31, 2020
+- Submission deadline: ~~April 24, 2020~~ **May 11, 2020** (Extended)
+- Acceptance notification: May 25, 2020
+- Camera ready deadline: June 1, 2020
 - Workshop date: July 13, 2020 (Morning)
 
 # Program Schedule
