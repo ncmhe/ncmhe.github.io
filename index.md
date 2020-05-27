@@ -2,9 +2,9 @@
 layout: default
 ---
 
-**News (2020/05/26): IJACI-PRICAI 2020 has rescheduled its in-person event due to COVID-19. If you are not aware, please see the announcement in the link: https://ijcai20.org/. As we have announced earlier, we follow the logistic plan of the main conference. We understand and agree on the importance and critical value of the in-person event for the workshops. We are committed to making every effort to have the experience in-person. Based on the main conference plan, the most likely scenario would be the workshop will be held on one of the dates during January 5-10, 2021, in Kyoto, Japan. We are both happy and eager to continue organizing the workshop in January. We are planning for the second round submission window opening, with actual dates (deadlines, event) will be determined based on IJCAI-PRICAI Workshop chairs' decision on the new schedule for workshops. Please stay tuned! 
+**News (2020/05/26): IJACI-PRICAI 2020 has rescheduled its in-person event due to COVID-19. If you are not aware, please see the announcement in the link: https://ijcai20.org/. As we have announced earlier, we follow the logistic plan of the main conference. We understand and agree on the importance and critical value of the in-person event for the workshops. We are committed to making every effort to have the experience in-person. Based on the main conference plan, the most likely scenario would be the workshop will be held on one of the dates during January 5-10, 2021, in Kyoto, Japan. We are both happy and eager to continue organizing the workshop in January. We are planning for the second round submission window opening, with actual dates (deadlines, event) will be determined based on IJCAI-PRICAI Workshop chairs' decision on the new schedule for workshops. Please stay tuned!** 
 
-**News (2020/05/25): Round 1 paper notifications are out. Papers accepted to the Round 1 will get guaranteed presentation slots at the workshop in January 2021.
+**News (2020/05/25): Round 1 paper notifications are out. Papers accepted to the Round 1 will get guaranteed presentation slots at the workshop in January 2021.**
 
 **News (2020/05/07): We are aware of the recent annoucement of the main conference logistic decision. We will follow up with details soon.**
 
