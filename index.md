@@ -32,8 +32,8 @@ The inaugural event will be scheduled as a half-day workshop. The following is a
 - Break (20 min)
 - Oral Session 2 (20 min each)
     - Carolina Minami Oguchi, Ryo Nishida, Shusuke Shigenaka, Masaki Onishi "**Measuring the Effects of Autonomous Mobile Robot on Pedestrian Behavior**"
-    - Hadi Banaee, Franziska Kl&ugl, Amy Loutfi "**Challenges in Using Digital Twins for Modelling Human Behaviour in Environments**"
     - Yasunori Yokojima, Tatsuhide Sakai "**Learning Pedestrian Crowd as Clusters using Abstracted Features**"
+    - Hadi Banaee, Franziska Kl&ugl, Amy Loutfi "**Challenges in Using Digital Twins for Modelling Human Behaviour in Environments**"
     - Gang Qiao, Seonghyeon Moon, Sejong Yoon, Mubbasir Kapadia, Vladimir Pavlovic "**Measure Task-Level Inter-Agent Interaction Difficulty in Decentralized Scenarios**"
 
 
