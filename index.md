@@ -2,7 +2,7 @@
 layout: default
 ---
 
-News (2020/09/29): We have decided to have a fully online workshop, due to COVID-19. We have 
+News (2020/09/29): We have decided to have a fully online workshop, due to COVID-19. The exact date will follow the main conference and workshop chairs' decision. We expect the exact date will be announced sometime in November, 2020.
 
 <div hidden>
 ~~News (2020/08/10): IJCAI-PRICAI 2020 has announced two tentative dates (January 4-10 @Kyoto or January 18-23 @Yokohama) for the conference/workshop. We are now accepting Round 2 submissions. We also offer remote presentation option if authors prefer. It is possible that workshop itself maybe organized remotely, if the global pandemic situation does not improve by the time of the workshop.~~
