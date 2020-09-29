@@ -26,9 +26,9 @@ The inaugural event will be scheduled as a half-day workshop. The following is a
 - Break (10 min)
 - Oral Session 1 (20 min each)
     - Brandon Haworth "Learning To Move - Reinforcement Learning in Navigation"
-    - Hantao Zhao "Responsive Environments with Virtual Reality Experiments and Simulations"
     - Rohit Dubey "Cognitive Modeling of Information Sources for Human Wayfinding Under Uncertainty"
     - Muhammad Usman "Analyzing Human-Building Interactions in Virtual Environments using Crowd Simulations"
+    - Hantao Zhao "Responsive Environments with Virtual Reality Experiments and Simulations"
 - Break (20 min)
 - Oral Session 2 (20 min each)
     - Carolina Minami Oguchi, Ryo Nishida1, Shusuke Shigenaka1, Masaki Onishi1 "Measuring the Effects of Autonomous Mobile Robot on Pedestrian Behavior"
