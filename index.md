@@ -41,7 +41,8 @@ The inaugural event will be scheduled as a half-day workshop, but the presentati
 	- 10:00am (UTC): Gang Qiao, Seonghyeon Moon, Sejong Yoon, Mubbasir Kapadia, Vladimir Pavlovic "**Measure Task-Level Inter-Agent Interaction Difficulty in Decentralized Scenarios**"
 
 
-Time Zone conversion table
+Time Zone conversion table for your convenience:
+
 | UTC | JST | CET | EST | PST |
 | --- | --- | --- | --- | --- |
 |12am | 9am | 2am | 8pm+ | 5pm+ |
