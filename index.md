@@ -29,16 +29,27 @@ The inaugural event will be scheduled as a half-day workshop, but the presentati
     - 12:30am (UTC): Glen Berseth (Univeristy of California, Berkeley) "**Environment Optimization using Different Measures**"
     - 01:00am (UTC): Muhammad Usman (York University) "**Analyzing Human-Building Interactions in Virtual Environments using Crowd Simulations**"
 	- 01:30am (UTC): Break (30 min)	
-    - 02:00am (UTC): Yasunori Yokojima (Siemens K.K.), Tatsuhide Sakai (Daihatsu Motor Co. Ltd.) "**Learning Pedestrian Crowd as Clusters using Abstracted Features**"
-    - 02:30am (UTC): Carolina Minami Oguchi (AIST), Ryo Nishida (AIST, Tohoku University), Shusuke Shigenaka (AIST, University of Tsukuba), Masaki Onishi (AIST) "**Measuring the Effects of Autonomous Mobile Robot on Pedestrian Behavior**"
+    - 02:00am (UTC): Yasunori Yokojima (Siemens K.K.), Tatsuhide Sakai (Daihatsu Motor Co. Ltd.) "**Learning Pedestrian Crowd as Clusters using Abstracted Features**" [extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_yokojima.pdf)
+    - 02:30am (UTC): Carolina Minami Oguchi (AIST), Ryo Nishida (AIST, Tohoku University), Shusuke Shigenaka (AIST, University of Tsukuba), Masaki Onishi (AIST) "**Measuring the Effects of Autonomous Mobile Robot on Pedestrian Behavior**" [extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_oguchi.pdf)
 
 
 - Oral Session 2: Friday, January 8, 8am-1pm UTC / 5pm-10pm JST / 10am-3pm (CET) / 4am-9am EST / 1am-6am PST
-    - 08:00am (UTC): Rohit Dubey (ETH Zurich) "**Cognitive Modeling of Information Sources for Human Wayfinding Under Uncertainty**"
+    - 08:00am (UTC): Rohit Dubey (ETH Zurich) "**Cognitive Modeling of Information Sources for Human Wayfinding Under Uncertainty**" [extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_dubey.pdf)
     - 08:30am (UTC): Hantao Zhao (Disney Research & ETH Zurich) "**Responsive Environments with Virtual Reality Experiments and Simulations**"
 	- 09:00am (UTC): Break (30 min)	
-    - 09:30am (UTC): Hadi Banaee, Franziska Klügl, Amy Loutfi "**Challenges in Using Digital Twins for Modelling Human Behaviour in Environments**"
-    - 10:00am (UTC): Gang Qiao, Seonghyeon Moon, Sejong Yoon, Mubbasir Kapadia, Vladimir Pavlovic "**Measure Task-Level Inter-Agent Interaction Difficulty in Decentralized Scenarios**"
+    - 09:30am (UTC): Hadi Banaee, Franziska Klügl, Amy Loutfi "**Challenges in Using Digital Twins for Modelling Human Behaviour in Environments**" [extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_banaee.pdf)
+	- 10:00am (UTC): Gang Qiao, Seonghyeon Moon, Sejong Yoon, Mubbasir Kapadia, Vladimir Pavlovic "**Measure Task-Level Inter-Agent Interaction Difficulty in Decentralized Scenarios**"
+
+
+Time Zone conversion table
+| UTC | JST | CET | EST | PST |
+| --- | --- | --- | --- | --- |
+|12am | 9am | 2am | 8pm+ | 5pm+ |
+| 5am | 2pm | 7pm | 1am |10pm+ |
+| 8am | 5pm |10am | 4am | 1am |
+| 1pm |10pm | 3pm | 9am | 6am |
+
+Please note that "+" mark indicates Thursday, January 7, 2021.
 
 
 # Call for Contributions
@@ -73,7 +84,7 @@ The link to the submission CMT site is [here](https://cmt3.research.microsoft.co
 - ~~Round 2 Acceptance notification: September 24, 2020~~
 - ~~Round 2 Camera ready deadline: September 29, 2020~~
 
-- Workshop date: January, 2021 (scheduled)
+- Workshop date: January, 8, 2021
 
 # Organizing Committee
 
