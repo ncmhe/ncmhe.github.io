@@ -21,7 +21,7 @@ This inaugural [IJCAI-PRICAI 2020 Workshop](https://ijcai20.org/workshops.html) 
 
 # Program Schedule
 
-The inaugural event will be scheduled as a half-day workshop, but the presentation will be spreaded to meet the presenters' time zone preferences. The following is the finalized schedule. Each talk is 20 min long and there will be 10 min for question and answers.
+The inaugural event is scheduled as a half-day workshop, but the presentation are spreaded to meet the presenters' time zone preferences. The following is the finalized schedule. Each talk is 20 min long and there will be 10 min for question and answers.
 
 
 - Oral Session 1: Friday, January 8, 12am-5am UTC 
