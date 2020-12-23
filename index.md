@@ -25,20 +25,29 @@ The inaugural event is scheduled as a half-day workshop, but the presentation ar
 
 
 - Oral Session 1: Friday, January 8, 12am-5am UTC 
-    - 12:00am (UTC): **Brandon Haworth** (Univ. of Victoria) "*Learning To Move - Reinforcement Learning in Navigation*"
-    - 12:30am (UTC): **Glen Berseth** (Univ. of California, Berkeley) "*Environment Optimization using Different Measures*"
-    - 01:00am (UTC): **Muhammad Usman** (York Univ.) "*Analyzing Human-Building Interactions in Virtual Environments using Crowd Simulations*"
+    - 12:00am (UTC): **Learning To Move - Reinforcement Learning in Navigation**
+        - **Brandon Haworth** (Univ. of Victoria) 
+    - 12:30am (UTC): **Environment Optimization using Different Measures**
+		- **Glen Berseth** (Univ. of California, Berkeley)
+    - 01:00am (UTC): **Analyzing Human-Building Interactions in Virtual Environments using Crowd Simulations**
+		- **Muhammad Usman** (York Univ.)
 	- 01:30am (UTC): Break (30 min)	
-    - 02:00am (UTC): **Yasunori Yokojima** (Siemens K.K.), Tatsuhide Sakai (Daihatsu Motor Co. Ltd.) "*Learning Pedestrian Crowd as Clusters using Abstracted Features*" [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_yokojima.pdf)]
-    - 02:30am (UTC): **Carolina Minami Oguchi** (AIST), Ryo Nishida (AIST, Tohoku Univ.), Shusuke Shigenaka (AIST, Univ. of Tsukuba), Masaki Onishi (AIST) "*Measuring the Effects of Autonomous Mobile Robot on Pedestrian Behavior*" [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_oguchi.pdf)]
+    - 02:00am (UTC): **Learning Pedestrian Crowd as Clusters using Abstracted Features** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_yokojima.pdf)]
+		- **Yasunori Yokojima** (Siemens K.K.), **Tatsuhide Sakai** (Daihatsu Motor Co. Ltd.)
+    - 02:30am (UTC): **Measuring the Effects of Autonomous Mobile Robot on Pedestrian Behavior** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_oguchi.pdf)]
+		- **Carolina Minami Oguchi** (AIST), **Ryo Nishida** (AIST, Tohoku Univ.), **Shusuke Shigenaka** (AIST, Univ. of Tsukuba), **Masaki Onishi** (AIST)
 
 
 - Oral Session 2: Friday, January 8, 8am-1pm UTC
-    - 08:00am (UTC): **Rohit Dubey** (ETH Zurich), Mubbasir Kapadia (Rutgers Univ.), Christoph Hoelscher (ETH Zurich) "*Cognitive Modeling of Information Sources for Human Wayfinding Under Uncertainty*" [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_dubey.pdf)]
-    - 08:30am (UTC): **Hantao Zhao** (Disney Research & ETH Zurich) "*Responsive Environments with Virtual Reality Experiments and Simulations*"
+    - 08:00am (UTC): **Cognitive Modeling of Information Sources for Human Wayfinding Under Uncertainty** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_dubey.pdf)]
+		- **Rohit Dubey** (ETH Zurich), **Mubbasir Kapadia** (Rutgers Univ.), **Christoph Hoelscher** (ETH Zurich)
+    - 08:30am (UTC): **Responsive Environments with Virtual Reality Experiments and Simulations**
+		- **Hantao Zhao** (Disney Research & ETH Zurich)
 	- 09:00am (UTC): Break (30 min)	
-    - 09:30am (UTC): **Hadi Banaee** (AASS), Franziska Klügl (AASS), Amy Loutfi (AASS) "*Challenges in Using Digital Twins for Modelling Human Behaviour in Environments*" [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_banaee.pdf)]
-	- 10:00am (UTC): **Gang Qiao** (Rutgers Univ.), Seonghyeon Moon (Rutgers Univ.), Sejong Yoon (The College of New Jersey), Mubbasir Kapadia (Rutgers University), Vladimir Pavlovic (Rutgers Univ.) "*Measure Task-Level Inter-Agent Interaction Difficulty in Decentralized Scenarios*"
+    - 09:30am (UTC): **Challenges in Using Digital Twins for Modelling Human Behaviour in Environments** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_banaee.pdf)]
+		- **Hadi Banaee** (AASS), **Franziska Klügl** (AASS), **Amy Loutfi** (AASS)
+	- 10:00am (UTC): **Measure Task-Level Inter-Agent Interaction Difficulty in Decentralized Scenarios**
+		- **Gang Qiao** (Rutgers Univ.), **Seonghyeon Moon** (Rutgers Univ.), **Sejong Yoon** (The College of New Jersey), **Mubbasir Kapadia** (Rutgers University), **Vladimir Pavlovic** (Rutgers Univ.)
 
 
 Time Zone conversion table for your convenience:
