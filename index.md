@@ -52,12 +52,12 @@ The inaugural event is scheduled as a half-day workshop, but the presentation ar
 
 Time Zone conversion table for your convenience:
 
-| UTC | JST | CET | EST | PST |
+| JST | CET | UTC | EST | PST |
 | --- | --- | --- | --- | --- |
-|12am | 9am | 2am | 8pm^ | 5pm^ |
-| 5am | 2pm | 7pm | 1am |10pm^ |
-| 8am | 5pm |10am | 4am | 1am |
-| 1pm |10pm | 3pm | 9am | 6am |
+| 9am | 2am |12am | 8pm^| 5pm^|
+| 2pm | 7am | 5am | 1am |10pm^|
+| 5pm |10am | 8am | 4am | 1am |
+|10pm | 3pm | 1pm | 9am | 6am |
 
 Please note that "^" mark indicates Thursday, January 7, 2021, local time.
 
