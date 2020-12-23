@@ -45,12 +45,12 @@ Time Zone conversion table for your convenience:
 
 | UTC | JST | CET | EST | PST |
 | --- | --- | --- | --- | --- |
-|12am | 9am | 2am | 8pm+ | 5pm+ |
-| 5am | 2pm | 7pm | 1am |10pm+ |
+|12am | 9am | 2am | 8pm^ | 5pm^ |
+| 5am | 2pm | 7pm | 1am |10pm^ |
 | 8am | 5pm |10am | 4am | 1am |
 | 1pm |10pm | 3pm | 9am | 6am |
 
-Please note that "+" mark indicates Thursday, January 7, 2021.
+Please note that "^" mark indicates Thursday, January 7, 2021.
 
 
 # Call for Contributions
