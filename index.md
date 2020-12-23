@@ -24,7 +24,7 @@ This inaugural [IJCAI-PRICAI 2020 Workshop](https://ijcai20.org/workshops.html) 
 The inaugural event will be scheduled as a half-day workshop, but the presentation will be spreaded to meet the presenters' time zone preferences. The following is the finalized schedule. Each talk is 20 min long and there will be 10 min for question and answers.
 
 
-- Oral Session 1: Friday, January 8, 12am-5am UTC / 9am-2pm JST / 2am-7am (CET) / 8pm (Thursday)-1am EST / 5pm (Thursday)-10pm (Thursday) PST
+- Oral Session 1: Friday, January 8, 12am-5am UTC 
     - 12:00am (UTC): Brandon Haworth (University of Victoria) "**Learning To Move - Reinforcement Learning in Navigation**"
     - 12:30am (UTC): Glen Berseth (Univeristy of California, Berkeley) "**Environment Optimization using Different Measures**"
     - 01:00am (UTC): Muhammad Usman (York University) "**Analyzing Human-Building Interactions in Virtual Environments using Crowd Simulations**"
@@ -33,7 +33,7 @@ The inaugural event will be scheduled as a half-day workshop, but the presentati
     - 02:30am (UTC): Carolina Minami Oguchi (AIST), Ryo Nishida (AIST, Tohoku University), Shusuke Shigenaka (AIST, University of Tsukuba), Masaki Onishi (AIST) "**Measuring the Effects of Autonomous Mobile Robot on Pedestrian Behavior**" [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_oguchi.pdf)]
 
 
-- Oral Session 2: Friday, January 8, 8am-1pm UTC / 5pm-10pm JST / 10am-3pm (CET) / 4am-9am EST / 1am-6am PST
+- Oral Session 2: Friday, January 8, 8am-1pm UTC
     - 08:00am (UTC): Rohit Dubey (ETH Zurich) "**Cognitive Modeling of Information Sources for Human Wayfinding Under Uncertainty**" [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_dubey.pdf)]
     - 08:30am (UTC): Hantao Zhao (Disney Research & ETH Zurich) "**Responsive Environments with Virtual Reality Experiments and Simulations**"
 	- 09:00am (UTC): Break (30 min)	
