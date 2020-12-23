@@ -46,8 +46,8 @@ The inaugural event is scheduled as a half-day workshop, but the presentation ar
 	- 09:00am (UTC): Break (30 min)	
     - 09:30am (UTC): **Challenges in Using Digital Twins for Modelling Human Behaviour in Environments** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_banaee.pdf)]
 		- **Hadi Banaee** (AASS), **Franziska Klügl** (AASS), **Amy Loutfi** (AASS)
-	- 10:00am (UTC): **Measure Task-Level Inter-Agent Interaction Difficulty in Decentralized Scenarios**
-		- **Gang Qiao** (Rutgers Univ.), **Seonghyeon Moon** (Rutgers Univ.), **Sejong Yoon** (The College of New Jersey), **Mubbasir Kapadia** (Rutgers University), **Vladimir Pavlovic** (Rutgers Univ.)
+	- 10:00am (UTC): **Measure Task-Level Inter-Agent Interaction Difficulty in Decentralized Scenarios** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_qiao.pdf)]
+		- **Gang Qiao** (Rutgers Univ.), **Kaidong Hu** (Rutgers Univ.), **Seonghyeon Moon** (Rutgers Univ.), **Sejong Yoon** (The College of New Jersey), **Mubbasir Kapadia** (Rutgers University), **Vladimir Pavlovic** (Rutgers Univ.)
 
 
 Time Zone conversion table for your convenience:
