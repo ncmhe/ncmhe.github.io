@@ -41,7 +41,7 @@ The inaugural event is scheduled as a half-day workshop, but the presentation ar
 - Oral Session 2: Friday, January 8, 8am-1pm UTC
     - 08:00am (UTC): **Cognitive Modeling of Information Sources for Human Wayfinding Under Uncertainty** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_dubey.pdf)]
 		- **Rohit Dubey** (ETH Zurich), **Mubbasir Kapadia** (Rutgers Univ.), **Christoph Hoelscher** (ETH Zurich)
-    - 08:30am (UTC): **Responsive Environments with Virtual Reality Experiments and Simulations**
+    - 08:30am (UTC): **Responsive Environments with Virtual Reality Experiments and Simulations** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_zhao.pdf)]
 		- **Hantao Zhao** (Disney Research & ETH Zurich)
 	- 09:00am (UTC): Break (30 min)	
     - 09:30am (UTC): **Challenges in Using Digital Twins for Modelling Human Behaviour in Environments** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_banaee.pdf)]
