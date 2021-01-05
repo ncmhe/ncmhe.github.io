@@ -51,7 +51,7 @@ The inaugural event is scheduled as a half-day workshop, but the presentations a
 		- **Gang Qiao** (Rutgers Univ.), **Kaidong Hu** (Rutgers Univ.), **Seonghyeon Moon** (Rutgers Univ.), **Sejong Yoon** (The College of New Jersey), **Mubbasir Kapadia** (Rutgers University), **Vladimir Pavlovic** (Rutgers Univ.)
 
 
-Time Zone conversion table for your convenience:
+Time Zone conversion table for your convenience (Also see [[here](https://savvytime.com/converter/utc-to-est-pst-cet-jst/jan-8-2021/12am)]):
 
 | JST | CET | UTC | EST | PST |
 | --- | --- | --- | --- | --- |
