@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**News (2021/01/05): Link to the venue has been posted [[HERE](https://www.virtualchair.net/events/ijcai-pricai-2020)]. At least one day before the workshop, you can access it to get familiar with the interface. Zoom session will only be available on the day.**
+**News (2021/01/05): Link to the venue has been posted [HERE(https://www.virtualchair.net/events/ijcai-pricai-2020)]. At least one day before the workshop, you can access it to get familiar with the interface. Zoom session will only be available on the day.**
 
 **News (2020/12/23): Final workshop schedule has been posted.**
 
@@ -53,7 +53,7 @@ The inaugural event is scheduled as a half-day workshop, but the presentations a
 		- **Gang Qiao** (Rutgers Univ.), **Kaidong Hu** (Rutgers Univ.), **Seonghyeon Moon** (Rutgers Univ.), **Sejong Yoon** (The College of New Jersey), **Mubbasir Kapadia** (Rutgers University), **Vladimir Pavlovic** (Rutgers Univ.)
 
 
-Time Zone conversion table for your convenience (Also see [[here](https://savvytime.com/converter/utc-to-est-pst-cet-jst/jan-8-2021/12am)]):
+Time Zone conversion table for your convenience (Also see [here(https://savvytime.com/converter/utc-to-est-pst-cet-jst/jan-8-2021/12am)]):
 
 | JST | CET | UTC | EST | PST |
 | --- | --- | --- | --- | --- |
