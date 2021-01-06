@@ -28,8 +28,8 @@ The inaugural event is scheduled as a half-day workshop, but the presentations a
 
 - Oral Session 1: Friday, January 8, 12:00am-5am UTC 
 	- Welcome Message
-    - 12:00am (UTC): **Learning To Move - Reinforcement Learning in Navigation**
-        - **Brandon Haworth** (Univ. of Victoria) 
+    - 12:00am (UTC): **Learning To Move - Reinforcement Learning in Navigation** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_haworth.pdf)]
+        - **Brandon Haworth** (Univ. of Victoria)
     - 12:30am (UTC): **Environment Optimization using Different Measures** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_berseth.pdf)]
 		- **Glen Berseth** (Univ. of California, Berkeley)
     - 01:00am (UTC): **Analyzing Human-Building Interactions in Virtual Environments using Crowd Simulations** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_usman.pdf)]
