@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+**News (2021/01/06): The workshop venue is Blue Wing South 1. You can use the calendar icon to enable navigation path and follow along. You can also use the shortcut features explained in the [IJCAI website](https://ijcai20.org/how-to-attend/).**
+
 **News (2021/01/05): Link to the venue has been posted [HERE](https://www.virtualchair.net/events/ijcai-pricai-2020). At least one day before the workshop, you can access it to get familiar with the interface. Zoom session will only be available on the day.**
 
 **News (2020/12/23): Final workshop schedule has been posted.**
