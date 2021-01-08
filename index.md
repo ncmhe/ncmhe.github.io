@@ -34,11 +34,11 @@ The inaugural event is scheduled as a half-day workshop, but the presentations a
         - **Brandon Haworth** (Univ. of Victoria)
     - 12:30am (UTC): **Environment Optimization using Different Measures** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_berseth.pdf)]
 		- **Glen Berseth** (Univ. of California, Berkeley)
-    - 01:00am (UTC): **Analyzing Human-Building Interactions in Virtual Environments using Crowd Simulations** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_usman.pdf)]
-		- **Muhammad Usman** (York Univ.)
-	- 01:30am (UTC): Break (30 min)
-    - 02:00am (UTC): **Learning Pedestrian Crowd as Clusters using Abstracted Features** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_yokojima.pdf)]
+    - 01:00am (UTC): **Learning Pedestrian Crowd as Clusters using Abstracted Features** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_yokojima.pdf)]
 		- **Yasunori Yokojima** (Siemens K.K.), **Tatsuhide Sakai** (Daihatsu Motor Co. Ltd.)
+	- 01:30am (UTC): Break (30 min)
+    - 02:00am (UTC): **Analyzing Human-Building Interactions in Virtual Environments using Crowd Simulations** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_usman.pdf)]
+		- **Muhammad Usman** (York Univ.)
     - 02:30am (UTC): **Measuring the Effects of Autonomous Mobile Robot on Pedestrian Behavior** [[extended abstract](https://ncmhe.github.io/abstracts/ncmhe2020_oguchi.pdf)]
 		- **Carolina Minami Oguchi** (AIST), **Ryo Nishida** (AIST, Tohoku Univ.), **Shusuke Shigenaka** (AIST, Univ. of Tsukuba), **Masaki Onishi** (AIST)
 
